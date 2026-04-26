@@ -1,0 +1,11 @@
+{
+  "revokedKeys": [],
+  "registeredKeys": [
+    {
+      "key": "STORM-A3F2-B891-C4D7-20261231",
+      "hardwareId": "XXXX-XXXX-XXXX-XXXX",
+      "registeredDate": "2026-04-23",
+      "note": "User A - Nguyen Van A"
+    }
+  ]
+}

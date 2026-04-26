@@ -1,5 +1,7 @@
 {
-  "revokedKeys": [],
+  "revokedKeys": [
+    "STORM-E5D8-9847-994F-20270426"
+  ],
   "registeredKeys": [
     {
       "key": "STORM-B2C0-DA53-7398-20260427",

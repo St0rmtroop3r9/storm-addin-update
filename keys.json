@@ -9,5 +9,34 @@
       "registeredDate": "2026-04-23",
       "note": "User A - Nguyen Van A"
     }
+ {
+  "revokedKeys": [
+    "STORM-A3F2-B891-C4D7-20261231"
+  ],
+  "registeredKeys": [
+    {
+      "key": "STORM-E829-2BF4-DA85-20260428",
+      "hardwareId": "1E33-8B11-5613-39CB",
+      "registeredDate": "2026-04-23",
+      "note": "Nguyen Van A - Cong ty X"
+    },
+    {
+      "key": "STORM-C7D3-E1F8-A2B9-20261231",
+      "hardwareId": "I9J0-K1L2-M3N4-O5P6",
+      "registeredDate": "2026-04-23",
+      "note": "Tran Van B - Cong ty Y"
+    }
+  ]
+}
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   ]
 }

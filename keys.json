@@ -5,22 +5,22 @@
   ],
   "registeredKeys": [
     {
-      "key": "STORM-B2C0-DA53-7398-20260429",
+      "key": "STORM-E93D-EF17-7FC0-20500428",
       "hardwareId": "2DB3-27AB-C40F-1F5B",
       "registeredDate": "2026-04-29",
-      "note": "User A - Nguyen Van A"
+      "note": "Máy tính ở nhà"
     }
  
 
     {
-      "key": "STORM-E829-2BF4-DA85-20260428",
+      "key": "STORM-95E9-6FA3-C634-20500428",
       "hardwareId": "1E33-8B11-5613-39CB",
-      "registeredDate": "2026-04-23",
-      "note": "Nguyen Van A - Cong ty X"
+      "registeredDate": "2026-04-28",
+      "note": "Máy tính công ty"
     },
     {
-      "key": "STORM-C7D3-E1F8-A2B9-20261231",
-      "hardwareId": "I9J0-K1L2-M3N4-O5P6",
+      "key": "...................",
+      "hardwareId": "..................",
       "registeredDate": "2026-04-23",
       "note": "Tran Van B - Cong ty Y"
     }

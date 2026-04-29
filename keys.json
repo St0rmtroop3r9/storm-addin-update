@@ -15,6 +15,12 @@
       "hardwareId": "1E33-8B11-5613-39CB",
       "registeredDate": "2026-04-28",
       "note": "Máy tính công ty"
+    },
+        {
+      "key": "STORM-0992-4414-8179-20290429",
+      "hardwareId": "3064-FCDE-8785-E404",
+      "registeredDate": "2026-04-28",
+      "note": "Máy ảo test"
     }
   ]
 }

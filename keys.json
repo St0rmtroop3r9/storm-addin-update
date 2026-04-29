@@ -2,8 +2,7 @@
   "revokedKeys": [
     "STORM-E93D-EF17-7FC0-20500428",
     "STORM-3C49-C31B-A5D6-20500428",
-    
-  ],
+    ],
   "registeredKeys": [
     {
       "key": "STORM-AE52-3F1B-5FB6-20300428",
@@ -17,8 +16,7 @@
       "registeredDate": "2026-04-28",
       "note": "Máy tính công ty"
     }
-    
-  ]
+   ]
 }
   
   

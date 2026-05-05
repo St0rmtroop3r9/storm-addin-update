@@ -21,7 +21,13 @@
       "hardwareId": "3064-FCDE-8785-E404",
       "registeredDate": "2026-04-28",
       "note": "Máy ảo test"
-    }
+    },
+    {
+      "key": "STORM-8D0D-B928-7D7A-20300505",
+      "hardwareId": "5A48-15E1-52D3-45D0",
+      "registeredDate": "2026-04-28",
+      "note": "Máy a Thanh - Trưởng phòng"
+    },
   ]
 }
   

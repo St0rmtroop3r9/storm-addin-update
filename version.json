@@ -2,5 +2,8 @@
   "version": "26.05.08.1136",
   "releaseDate": "2026-05-08",
   "downloadUrl": "https://1drv.ms/u/c/1f01281fa950c9bb/IQAN6_7_Ws8wRoStPpV8nr6EAdIjPBaYP1OAktJesOpxzug?e=jO6Z7D",
-  "releaseNotes": "- Sửa lỗi nhỏ, cải tiến hiệu năng - Bổ sung tính năng tìm kiếm nhanh"
+  "releaseNotes": [
+    "Sửa lỗi nhỏ, cải tiến hiệu năng",
+    "Bổ sung tính năng tìm kiếm nhanh"
+  ]
 }

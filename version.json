@@ -1,9 +1,8 @@
 {
   "version": "26.05.08.1136",
   "releaseDate": "2026-05-08",
-  "downloadUrl": "https://1drv.ms/u/c/1f01281fa950c9bb/IQAN6_7_Ws8wRoStPpV8nr6EAdIjPBaYP1OAktJesOpxzug?e=jO6Z7D",
+  "downloadUrl": "https://1drv.ms/u/c/1f01281fa950c9bb/IQAN6_7_Ws8wRoStPpV8nr6EASNxA8U8ap5tSNj0Fm2bYpc?e=gXB68V",
   "releaseNotes": [
-    "Sửa lỗi nhỏ, cải tiến hiệu năng",
-    "Bổ sung tính năng tìm kiếm nhanh"
-  ]
+    "Chuyển đổi phím tắt từ F3, F4, F9 sang F1, F6, F7",
+    ]
 }

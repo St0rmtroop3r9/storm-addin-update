@@ -1,8 +1,8 @@
 {
-  "version": "26.05.11.1710",
-  "releaseDate": "2026-05-11",
-  "downloadUrl": "https://1drv.ms/u/c/1f01281fa950c9bb/IQDC3KJApWWfT7dDpNQ5tvHsAbcHdPmJExr9KBevQU4_eBU?e=UNk0Xn",
+  "version": "26.05.18.1207",
+  "releaseDate": "2026-05-18",
+  "downloadUrl": "https://1drv.ms/u/c/1f01281fa950c9bb/IQBZ1MlpNqTLQJ1doK2wHyK1AcaGDWWs48AU2Ty5so5oibU?e=RSCzqs",
   "releaseNotes": [
-    "Cải thiện chức năng cho Taskpane File và Sheet; Form tìm kiếm nhanh; Copy dữ liệu tự động giữa các cột"
+    "Bổ sung chức năng so sánh 2 sheet"
     ]
 }

@@ -1,9 +1,8 @@
 {
-  "version": "26.05.18.1207",
-  "releaseDate": "2026-05-18",
-  "downloadUrl": "https://1drv.ms/u/c/1f01281fa950c9bb/IQBZ1MlpNqTLQJ1doK2wHyK1AcaGDWWs48AU2Ty5so5oibU?e=RSCzqs",
+  "version": "26.05.30.1050",
+  "releaseDate": "2026-05-30",
+  "downloadUrl": "https://1drv.ms/u/c/1f01281fa950c9bb/IQDej4nQGfn5SZFUtkcOVjkFATXaki85fpQOcVjxOvegbPQ",
   "releaseNotes": [
-    "Bổ sung chức năng so sánh 2 sheet",
-    "Sửa lỗi in 1 mặt"
+    "Sửa lỗi nhỏ"
     ]
 }

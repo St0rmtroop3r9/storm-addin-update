@@ -29,16 +29,16 @@
       "note": "Máy ảo test"
     },
     {
-      "key": "STORM-8D0D-B928-7D7A-20300505",
-      "hardwareId": "5A48-15E1-52D3-45D0",
+      "key": "STORM-6EA0-38EC-5328-20300607",
+      "hardwareId": "123B-685B-B9A2-D920",
       "registeredDate": "2026-04-28",
-      "note": "Máy a Thanh - Trưởng phòng"
+      "note": "Máy a Thanh - Trưởng phòng-1"
     },
     {
-      "key": "STORM-C5DE-5FD5-1C6A-20500604",
-      "hardwareId": "F722-2D9D-DB22-7CD6",
+      "key": "STORM-76CD-0C8D-0206-20300607",
+      "hardwareId": "4D51-963D-A9EC-53AA",
       "registeredDate": "2026-04-28",
-      "note": "Máy laptop 650G2"
+      "note": "Máy a Thanh - Trưởng phòng-2"
     }
   ]
 }

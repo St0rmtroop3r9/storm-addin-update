@@ -17,18 +17,6 @@
       "note": "Máy tính công ty"
     },
     {
-      "key": "STORM-E3E9-087D-7861-20300511",
-      "hardwareId": "1E33-8B11-5613-39CB",
-      "registeredDate": "2026-04-28",
-      "note": "Máy tính công ty 1"
-    },
-        {
-      "key": "STORM-4E1E-78A9-1953-20500507",
-      "hardwareId": "D27B-6186-7CDE-E62C",
-      "registeredDate": "2026-04-28",
-      "note": "Máy ảo test"
-    },
-    {
       "key": "STORM-6EA0-38EC-5328-20300607",
       "hardwareId": "123B-685B-B9A2-D920",
       "registeredDate": "2026-04-28",
